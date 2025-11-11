@@ -124,3 +124,12 @@ header a{
     grid-template-columns: repeat(3, 1fr);
     gap:40px;
 }
+
+.link-container{
+	background: var(--Green);
+	border-radius: 12px;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
